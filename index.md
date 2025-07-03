@@ -42,7 +42,7 @@ A full-featured web application for book enthusiasts to browse, rent, and reques
 ## Contact
 
 My LinkedIn [LinkedIn](https://www.linkedin.com/in/shanmugapriya-janarthanan/)
-* * *
+
 
 
  
