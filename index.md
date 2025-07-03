@@ -4,8 +4,6 @@ layout: default
 
 [About me](./aboutme.html).
 
-
-
 # Hello!
 
 My name is Priya. II'm a software developer with experience in building applications and a solid foundation in programming. 
