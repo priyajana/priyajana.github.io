@@ -2,12 +2,6 @@
 layout: default
 ---
 
----
-layout: default
----
-
-
-
 [About me](./aboutme.html).
 
 
@@ -22,7 +16,7 @@ I’m passionate about continuous learning and excited to contribute to meaningf
 
 ## Resume & Achievements
 
-*   AWS Certified Cloud Practitioner.
+*   AWS Certified Cloud Practitioner
 *   Sun Certified Java Programmer
 
 
