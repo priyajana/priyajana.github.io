@@ -32,7 +32,7 @@ You can view my resume [here](https://github.com/priyajana/priyajana.github.io/b
 
 The BookShelf - LaunchCode Capstone Project [The BookShelf](https://thebookshellf.netlify.app/)
 
-A full-featured web application for book enthusiasts to browse, rent, and request books online.
+A full-featured web application for book enthusiasts to browse, rent and request books online.
 * Designed and implemented the Home and About pages, with the Home page displaying a curated list of books based on user-selected genres using data fetched from the Google Books API.
 * Built and integrated a pagination feature for the Home page to handle large book datasets efficiently and enhance user experience.
 * Built a "Request a New Book" feature that allows users to submit book suggestions via a form.
