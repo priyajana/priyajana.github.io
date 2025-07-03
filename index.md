@@ -30,8 +30,13 @@ You can view my resume [here](https://github.com/priyajana/priyajana.github.io/b
 | Python                |
 | React                 |
 
-### There's a horizontal rule below this.
+## Project Work 
 
+LaunchCode Capstone Project [The BookShelf](https://thebookshellf.netlify.app/)
+
+## Contact
+
+My LinkedIn [LinkedIn](www.linkedin.com/in/shanmugapriya-janarthanan)
 * * *
 
 
