@@ -14,6 +14,8 @@ I’m passionate about continuous learning and excited to contribute to meaningf
 
 ## Resume & Achievements
 
+You can view my resume [here](https://github.com/priyajana/priyajana.github.io/blob/b8ef07fd1c832d72a93126768a68e44f26925804/Shanmugapriya%20Janarthanan%20-%20Software%20Engineer%20-1.pdf)
+
 *   AWS Certified Cloud Practitioner
 *   Sun Certified Java Programmer
 
