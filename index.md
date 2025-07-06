@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Shanmugapriya Janarthanan | Software Developer
+title: Shanmugapriya Janarthanan 
 ---
 
 # Hello!
