@@ -21,13 +21,13 @@ You can view my resume [here](https://github.com/priyajana/priyajana.github.io/b
 
 ## My Skillset
 
-| Programming Languages |        
-|:----------------------|
-| Java                  | 
-| HTML / CSS            |
-| JavaScript            | 
-| Python                |
-| React                 |
+| Programming Languages | Web Technologies |  Databases | Cloud |
+|:----------------------|------------------|------------|------:|
+| Java                  | HTML             | PostgreSQL |   AWS |
+| Python                | CSS              |      MySQL |       |
+|                       | JavaScript       |            |       |
+|                       | React            |            |       |
+
 
 ## Project Work 
 
