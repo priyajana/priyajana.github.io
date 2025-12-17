@@ -6,8 +6,8 @@ title: Shanmugapriya Janarthanan
 # Hello!
 
 My name is Priya. I'm a software developer with experience in building applications and a solid foundation in programming. 
-I recently completed a master’s degree in computer science to sharpen my technical skills after a career break.
-I’m currently enrolled in the LaunchCode Software Development course, where I’m gaining hands-on experience developing full-stack applications using React and Spring Boot. 
+After career break, I completed master’s degree in computer science to sharpen my technical skills and relaunch myself back in the technology industry.
+I have recently completed the LaunchCode Software Development course where I gained hands-on experience developing full-stack applications using React and Spring Boot. 
 I also completed the AWS re/Start program and earned the AWS Certified Cloud Practitioner certification.
 I’m passionate about continuous learning and excited to contribute to meaningful projects in the tech industry.
 
